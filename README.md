@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hobbist and professional software developer.
 --------------------------------------------
 
-I've been coding for a long time, starting with tinkering and problem-solving as a child. Now, I find myself both challenged and engaged by the world of SaaS software development. I'm a strong advocate for Agile and lean methodologies, and I'm excited to learn how contribute with my skills to the Open Source community.
+I've been coding for a long time, starting with tinkering and problem-solving as a child. Now, I find myself both challenged and engaged by the world of SaaS software development. I'm a strong advocate for agile and lean methodologies, and I'm excited to learn how contribute with my skills to the Open Source community.
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [Digital Artifactory (WIP)](http://digitalartifactory.com/)
