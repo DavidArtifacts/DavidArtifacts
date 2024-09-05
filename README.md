@@ -28,4 +28,4 @@ I've been coding for a long time, starting with tinkering and problem-solving as
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DavidArtifacts"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deivscript&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/DavidArtifacts"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidArtifacts&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
